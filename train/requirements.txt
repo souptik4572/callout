@@ -1,0 +1,2 @@
+-r ../api/requirements.txt
+tinker-cookbook==0.5.7

@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Callout: field recordings hold voices and stay local
+data/**/*.wav
+
+# Miscellaneous
+.DS_Store
+SPEC.md
+IMPL.md
